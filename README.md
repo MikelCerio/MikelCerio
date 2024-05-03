@@ -1,4 +1,5 @@
 ### Hi there 👋
+![data nerd](https://github.com/MikelCerio/MikelCerio/assets/132581062/a8d4f095-bc92-4df4-85ad-c38285f5782e)
 
 <!--
 **MikelCerio/MikelCerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
